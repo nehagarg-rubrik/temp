@@ -1,0 +1,19 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "this is a test dir to learn git and node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nehagarg-rubrik/temp.git"
+  },
+  "author": "neha.garg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nehagarg-rubrik/temp/issues"
+  },
+  "homepage": "https://github.com/nehagarg-rubrik/temp#readme"
+}
